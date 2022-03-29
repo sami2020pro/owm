@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Owm
+Comment=Owl window manager
+Version=1.0.0
+Exec=owm
+Type=Application
+DesktopNames=Owm
